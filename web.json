@@ -11,34 +11,28 @@
   },
   "skill" : [
       {
-          "name" : "厄运的眷顾",
-          "image" : "https://ossweb-img.qq.com/images/lol/img/passive/MissFortune_W.png",
-          "introduce" : "在攻击一个新目标时，厄运小姐会造成额外物理伤害。",
-          "twointroduce" : ""
+          "name" : "隔人扣将",
+          "introduce" : "体力在30%以上、篮下有人防守时，扣篮能力提升14，扣篮概率提升20％"
       },
       {
-          "name" : "一箭双雕",
-          "image" : "https://ossweb-img.qq.com/images/lol/img/spell/MissFortuneRicochetShot.png",
-          "introduce" : "厄运小姐向敌方目标发射一次弹跳射击，对每个目标造成20/40/60/80/100(+1)(+0.35)物理伤害。每段射击都能施加攻击特效。",
-          "twointroduce" : "第二段射击可以暴击，造成%伤害，并且如果第一段攻击杀死了它的目标，那么第二段攻击就必定暴击。。"
+          "name" : "精准射手",
+          "introduce" : "得到球后在空中远距离跳投，完美出手的时间窗口扩大87.5％"
       },
       {
-          "name" : "大步流星",
-          "image" : "https://ossweb-img.qq.com/images/lol/img/spell/MissFortuneViciousStrikes.png",
-          "introduce" : "被动：如果5秒内没有受到直接伤害，厄运小姐就会获得25移动速度。再过5秒后，这个加成会提升至60/70/80/90/100。",
-          "twointroduce" : "主动：全额激活【大步流星】的移动速度加成并提供40/55/70/85/100%攻击速度加成，持续4秒。"
+          "name" : "突破精英",
+          "introduce" : "体力在50％以上，在进攻半场的三分圈内触发运球加速时，速度上升10点",
+          "twointroduce" : "且被抢断概率下降15％，持续4秒，每15秒发动一次技能。"
       },
       {
-          "name" : "弹幕时间",
-          "image" : "https://ossweb-img.qq.com/images/lol/img/spell/MissFortuneBulletTime.png",
-          "introduce" : "厄运小姐向前方锥形地带扫射出持续3秒的强力弹幕，每波弹幕造成(+0.35)(+0.2)物理伤害（总波数：12/14/16）。",
-          "twointroduce" : "每一波【弹幕时间】都可以暴击并造成%伤害。"
+          "name" : "好斗者",
+          "introduce" : "强力的防守会无情地消耗对方体力，当进行抢篮板、靠打、被靠打和干扰投篮时，",
+          "twointroduce" : "每秒扣除对方5点体力值。"
       }
   ],
-  "equipment" : [
+  "team" : [
       {
           "introduce" : "期初装备",
-          "equ" : [
+          "team" : [
               {
                   "name" : "多兰之剑",
                   "image" : "https://ossweb-img.qq.com/images/lol/img/item/1055.png"
@@ -48,10 +42,10 @@
                   "image" : "https://ossweb-img.qq.com/images/lol/img/item/3340.png"
               }
           ]
-      },
+      },    
       {
           "introduce" : "核心物品",
-          "equ" : [
+          "team" : [
               {
                   "name" : "幽梦之灵",
                   "image" : "https://ossweb-img.qq.com/images/lol/img/item/3142.png"
@@ -68,7 +62,7 @@
       },
       {
           "introduce" : "进攻型物品",
-          "equ" : [
+          "team" : [
               {
                   "name" : "疾射火炮",
                   "image" : "https://ossweb-img.qq.com/images/lol/img/item/3094.png"
