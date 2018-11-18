@@ -34,48 +34,66 @@
           "introduce" : "东部球队",
           "team" : [
               {
-                  "name" : "亚特兰大老鹰",
-                  "image" : "http://img.mp.itc.cn/upload/20161205/1583f18c41ae477e96d8415add278d0c_th.jpeg"
+                  "name":"亚特兰大老鹰",
+                  "image":"https://tse2-mm.cn.bing.net/th?id=OIP.fvJ5S0qZOzipq1Cy0RW-UwHaD3&w=264&h=156&c=7&o=5&dpr=1.375&pid=1.7"
               },
               {
-                  "name" : "点点滴滴",
-                  "image" : "https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=d8ba9dee5266d0167a19992aa72bd498/b21bb051f8198618d71bf1a74aed2e738bd4e6b1.jpg"
+                  "name" : "夏洛特黄蜂",
+                  "image" : "https://tse4-mm.cn.bing.net/th?id=OIP.yeXhyH65dHcoL4PnD-gMewAAAA&w=216&h=196&c=7&o=5&dpr=1.375&pid=1.7"
+              },
+              {
+                  "name":"迈阿密热火",
+                  "image":"https://tse3-mm.cn.bing.net/th?id=OIP.qRs_9HsYN15YX68AGutrpAHaKO&w=153&h=211&c=7&o=5&dpr=1.375&pid=1.7"
+              },
+              {
+                  "name":"奥兰多魔术",
+                  "image":"https://tse3-mm.cn.bing.net/th?id=OIP.y4LaMGGMSbnBpAwqMOAgeQAAAA&w=257&h=198&c=7&o=5&dpr=1.375&pid=1.7"
+              },
+              {
+                  "name":"华盛顿奇才",
+                  "image":"https://tse4-mm.cn.bing.net/th?id=OIP.hoT0X2wvPVsVaRnBYjDMZQHaHa&w=181&h=177&c=7&o=5&dpr=1.375&pid=1.7"
+              },
+              {
+                  "name":"波士顿凯尔特人",
+                  "image":"https://tse1-mm.cn.bing.net/th?id=OIP.IyonN2_y3CtVUtnLLQFCUgHaHa&w=198&h=192&c=7&o=5&dpr=1.375&pid=1.7"
+              },
+              {
+                  "name":"布鲁克林篮网",
+                  "image":"https://tse2-mm.cn.bing.net/th?id=OIP.ka_qbVIxGKA2wUUVRAdjTgAAAA&w=207&h=189&c=7&o=5&dpr=1.375&pid=1.7"
+              },
+              {
+                  "name":"纽约尼克斯",
+                  "image":"https://tse3-mm.cn.bing.net/th?id=OIP.cNsi1i3NxP4-PnDpC-GzigHaHa&w=218&h=208&c=7&o=5&dpr=1.375&pid=1.7"
+              },
+              {
+                  "name":"费城76人",
+                  "image":"https://tse2-mm.cn.bing.net/th?id=OIP.FQrYvDQUTIF81hRjq382bgHaHa&w=163&h=162&c=7&o=5&dpr=1.375&pid=1.7"
+              },
+              {
+                  "name":"多伦多猛龙",
+                  "image":"https://tse2-mm.cn.bing.net/th?id=OIP.HPHkHr5swPrML8jdXcZyIwHaHa&w=182&h=176&c=7&o=5&dpr=1.375&pid=1.7"
+              },
+              {
+                  "name":"芝加哥公牛",
+                  "image":"https://tse4-mm.cn.bing.net/th?id=OIP.-ej6T8WwyCWBf03Xk5HuUQHaHg&w=224&h=218&c=7&o=5&dpr=1.375&pid=1.7"
+              },
+              {
+                  "name":"克里夫兰骑士",
+                  "image":"https://tse1-mm.cn.bing.net/th?id=OIP.gmbdFlUBuEFeJRwIu4a1NAHaD7&w=268&h=159&c=7&o=5&dpr=1.375&pid=1.7"
+              },
+              {
+                  "name":"底特律活塞",
+                  "image":"https://tse1-mm.cn.bing.net/th?id=OIP.buwVDg4Wj9atUXlwE_dwPgHaHa&w=194&h=189&c=7&o=5&dpr=1.375&pid=1.7"
+              },
+              {
+                  "name":"印第安纳步行者",
+                  "image":"https://tse2-mm.cn.bing.net/th?id=OIP.MG8w3f-wN5P2LoVjcCWItwHaHa&w=230&h=220&c=7&o=5&dpr=1.375&pid=1.7"
+              },
+              {
+                  "name":"密尔沃基雄鹿",
+                  "image":"https://tse1-mm.cn.bing.net/th?id=OIP.DKSwFZNkqAvwiLtxtCr2dgAAAA&w=162&h=162&c=7&o=5&dpr=1.375&pid=1.7"
               }
-          ]
-      },    
-      {
-          "introduce" : "西部",
-          "team" : [
-              {
-                  "name" : "幽梦之灵",
-                  "image" : "https://ossweb-img.qq.com/images/lol/img/item/3142.png"
-              },
-              {
-                  "name" : "狂战士胫甲",
-                  "image" : "https://ossweb-img.qq.com/images/lol/img/item/3006.png"
-              },
-              {
-                  "name" : "黑色切割者",
-                  "image" : "https://ossweb-img.qq.com/images/lol/img/item/3071.png"
-              }
-          ]
-      },
-      {
-          "introduce" : "进攻型物品",
-          "team" : [
-              {
-                  "name" : "疾射火炮",
-                  "image" : "https://ossweb-img.qq.com/images/lol/img/item/3094.png"
-              },
-              {
-                  "name" : "多米尼克领主的致意",
-                  "image" : "https://ossweb-img.qq.com/images/lol/img/item/3036.png"
-              },
-              {
-                  "name" : "德拉克萨的幕刃",
-                  "image" : "https://ossweb-img.qq.com/images/lol/img/item/3147.png"
-              }
-          ]
-      }
-  ]
+            ]
+        }
+    ]
 }
