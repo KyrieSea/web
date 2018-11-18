@@ -31,20 +31,20 @@
   ],
   "team" : [
       {
-          "introduce" : "期初装备",
+          "introduce" : "东部",
           "team" : [
               {
-                  "name" : "多兰之剑",
+                  "name" : "啊啊啊",
                   "image" : "https://ossweb-img.qq.com/images/lol/img/item/1055.png"
               },
               {
-                  "name" : "监视图腾",
+                  "name" : "点点滴滴",
                   "image" : "https://ossweb-img.qq.com/images/lol/img/item/3340.png"
               }
           ]
       },    
       {
-          "introduce" : "核心物品",
+          "introduce" : "西部",
           "team" : [
               {
                   "name" : "幽梦之灵",
