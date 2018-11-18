@@ -30,6 +30,7 @@
       }
   ],
   "team" : [
+      //数组里面，两个对象，这样就可以了
       {
           "introduce" : "东部球队",
           "team" : [
@@ -94,69 +95,72 @@
                   "image":"https://tse1-mm.cn.bing.net/th?id=OIP.DKSwFZNkqAvwiLtxtCr2dgAAAA&w=162&h=162&c=7&o=5&dpr=1.375&pid=1.7"
               }
             ]
+        },
+        //这里是两个对象
+        {
+        "introduce" : "西部球队",
+        "team":[
+            {
+                "name":"达拉斯独行侠",
+                "image":"https://tse3-mm.cn.bing.net/th?id=OIP.rv2KCiFgx-SUenCRhHj57gHaHa&w=168&h=168&c=7&o=5&dpr=1.375&pid=1.7"
+                },
+                {
+                    "name":"休斯顿火箭",
+                    "image":"https://tse4-mm.cn.bing.net/th?id=OIP._kyBaE4iRHcVimaXsFYAZQHaIG&w=213&h=220&c=7&o=5&dpr=1.375&pid=1.7" 
+                },
+                {
+                    "name":"孟菲斯灰熊",
+                    "image":"https://tse4-mm.cn.bing.net/th?id=OIP.z4nEbId_fvyjUvPdtdECSAHaHa&w=190&h=182&c=7&o=5&dpr=1.375&pid=1.7"
+                },
+                {
+                    "name":"新奥尔良鹈鹕",
+                    "image":"https://tse2-mm.cn.bing.net/th?id=OIP.hXeF5IVdsJLcet3r4T9ZAAHaFj&w=265&h=193&c=7&o=5&dpr=1.375&pid=1.7"
+                },
+                {
+                    "name":"圣安东尼奥马刺",
+                    "image":"https://tse3-mm.cn.bing.net/th?id=OIP.eSP9GR-6PoBaf0OboNTVzgHaHa&w=150&h=160&c=7&o=5&dpr=1.375&pid=1.7"
+                },
+                {
+                    "name":"丹佛掘金",
+                    "image":"https://tse4-mm.cn.bing.net/th?id=OIP.btuoQjrkrXgpvVvf5qcsPAHaFJ&w=179&h=125&c=7&o=5&dpr=1.375&pid=1.7"
+                },
+                {
+                    "name":"明尼苏达森林狼",
+                    "image":"https://tse1-mm.cn.bing.net/th?id=OIP.ojfZqy41fvFpPGyTo_HrowHaHa&w=218&h=203&c=7&o=5&dpr=1.375&pid=1.7"
+                },
+                {
+                    "name":"俄克拉荷马雷霆",
+                    "image":"https://tse2-mm.cn.bing.net/th?id=OIP.0UxzdI541G3cdyCBEw5UogHaGH&w=261&h=205&c=7&o=5&dpr=1.375&pid=1.7"
+                },
+                {
+                    "name":"波特兰开拓者",
+                    "image":"https://tse3-mm.cn.bing.net/th?id=OIP.18mJozxuCuUQlEkgW3bIkwAAAA&w=190&h=177&c=7&o=5&dpr=1.375&pid=1.7"
+                },
+                {
+                    "name":"犹他爵士",
+                    "image":"https://tse1-mm.cn.bing.net/th?id=OIP.UXQMtnfyjhjKqdUiMiTlDAHaFj&w=237&h=177&c=7&o=5&dpr=1.375&pid=1.7"
+                },
+                {
+                    "name":"金州勇士",
+                    "image":"https://tse2-mm.cn.bing.net/th?id=OIP.f279dUt-TjG2mdKRu5S7AQHaHa&w=214&h=209&c=7&o=5&dpr=1.375&pid=1.7"
+                },
+                {
+                    "name":"洛杉矶快船",
+                    "image":"https://tse3-mm.cn.bing.net/th?id=OIP.Mpb4pm5an2IOQNYOQHbjxAHaEI&w=300&h=167&c=7&o=5&dpr=1.375&pid=1.7"
+                },
+                {
+                    "name":"洛杉矶湖人",
+                    "image":"https://tse3-mm.cn.bing.net/th?id=OIP.S2LDjMnJPnGmgldWAJBnVQHaHa&w=210&h=211&c=7&o=5&dpr=1.375&pid=1.7"
+                },
+                {
+                    "name":"菲尼克斯太阳",
+                    "image":"https://tse3-mm.cn.bing.net/th?id=OIP.plFi_XVesXgNnUcGFTHnRQHaHN&w=218&h=206&c=7&o=5&dpr=1.375&pid=1.7"
+                },
+                {
+                    "name":"萨克拉门托国王",
+                    "image":"https://tse1-mm.cn.bing.net/th?id=OIP.too-fy5JBkR6qT7OSdOrdwHaFS&w=255&h=178&c=7&o=5&dpr=1.375&pid=1.7"
+                }
+            ]
         }
-    ],
-     "introduce" : "西部球队",
-     "team":[
-         {
-             "name":"达拉斯独行侠",
-             "image":"https://tse3-mm.cn.bing.net/th?id=OIP.rv2KCiFgx-SUenCRhHj57gHaHa&w=168&h=168&c=7&o=5&dpr=1.375&pid=1.7"
-            },
-            {
-                "name":"休斯顿火箭",
-                "image":"https://tse4-mm.cn.bing.net/th?id=OIP._kyBaE4iRHcVimaXsFYAZQHaIG&w=213&h=220&c=7&o=5&dpr=1.375&pid=1.7" 
-            },
-            {
-                "name":"孟菲斯灰熊",
-                "image":"https://tse4-mm.cn.bing.net/th?id=OIP.z4nEbId_fvyjUvPdtdECSAHaHa&w=190&h=182&c=7&o=5&dpr=1.375&pid=1.7"
-            },
-            {
-                "name":"新奥尔良鹈鹕",
-                "image":"https://tse2-mm.cn.bing.net/th?id=OIP.hXeF5IVdsJLcet3r4T9ZAAHaFj&w=265&h=193&c=7&o=5&dpr=1.375&pid=1.7"
-            },
-            {
-                "name":"圣安东尼奥马刺",
-                "image":"https://tse3-mm.cn.bing.net/th?id=OIP.eSP9GR-6PoBaf0OboNTVzgHaHa&w=150&h=160&c=7&o=5&dpr=1.375&pid=1.7"
-            },
-            {
-                "name":"丹佛掘金",
-                "image":"https://tse4-mm.cn.bing.net/th?id=OIP.btuoQjrkrXgpvVvf5qcsPAHaFJ&w=179&h=125&c=7&o=5&dpr=1.375&pid=1.7"
-            },
-            {
-                "name":"明尼苏达森林狼",
-                "image":"https://tse1-mm.cn.bing.net/th?id=OIP.ojfZqy41fvFpPGyTo_HrowHaHa&w=218&h=203&c=7&o=5&dpr=1.375&pid=1.7"
-            },
-            {
-                "name":"俄克拉荷马雷霆",
-                "image":"https://tse2-mm.cn.bing.net/th?id=OIP.0UxzdI541G3cdyCBEw5UogHaGH&w=261&h=205&c=7&o=5&dpr=1.375&pid=1.7"
-            },
-            {
-                "name":"波特兰开拓者",
-                "image":"https://tse3-mm.cn.bing.net/th?id=OIP.18mJozxuCuUQlEkgW3bIkwAAAA&w=190&h=177&c=7&o=5&dpr=1.375&pid=1.7"
-            },
-            {
-                "name":"犹他爵士",
-                "image":"https://tse1-mm.cn.bing.net/th?id=OIP.UXQMtnfyjhjKqdUiMiTlDAHaFj&w=237&h=177&c=7&o=5&dpr=1.375&pid=1.7"
-            },
-            {
-                "name":"金州勇士",
-                "image":"https://tse2-mm.cn.bing.net/th?id=OIP.f279dUt-TjG2mdKRu5S7AQHaHa&w=214&h=209&c=7&o=5&dpr=1.375&pid=1.7"
-            },
-            {
-                "name":"洛杉矶快船",
-                "image":"https://tse3-mm.cn.bing.net/th?id=OIP.Mpb4pm5an2IOQNYOQHbjxAHaEI&w=300&h=167&c=7&o=5&dpr=1.375&pid=1.7"
-            },
-            {
-                "name":"洛杉矶湖人",
-                "image":"https://tse3-mm.cn.bing.net/th?id=OIP.S2LDjMnJPnGmgldWAJBnVQHaHa&w=210&h=211&c=7&o=5&dpr=1.375&pid=1.7"
-            },
-            {
-                "name":"菲尼克斯太阳",
-                "image":"https://tse3-mm.cn.bing.net/th?id=OIP.plFi_XVesXgNnUcGFTHnRQHaHN&w=218&h=206&c=7&o=5&dpr=1.375&pid=1.7"
-            },
-            {
-                "name":"萨克拉门托国王",
-                "image":"https://tse1-mm.cn.bing.net/th?id=OIP.too-fy5JBkR6qT7OSdOrdwHaFS&w=255&h=178&c=7&o=5&dpr=1.375&pid=1.7"
-            }
-        ]
-}
+    ]
+  }
