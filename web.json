@@ -96,9 +96,7 @@
             ]
         }
     ],
-    "team":[
-        {
-            "introduce" : "西部球队",
+     "introduce" : "西部球队",
      "team":[
          {
              "name":"达拉斯独行侠",
@@ -161,6 +159,4 @@
                 "image":"https://tse1-mm.cn.bing.net/th?id=OIP.too-fy5JBkR6qT7OSdOrdwHaFS&w=255&h=178&c=7&o=5&dpr=1.375&pid=1.7"
             }
         ]
-    }
-]
 }
